@@ -1,1 +1,1 @@
-#this is locarepo
+#this is locarepogit status
